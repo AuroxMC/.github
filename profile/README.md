@@ -1,6 +1,6 @@
-## AuroxMC Organisation: Willkommen im Minecraft Netzwerk! 👋
+## Herzlich willkommen bei AuroxMC – Deinem Minecraft Netzwerk! 👋
 
 Erfahre mehr über uns:
-- 🌐 Website: [www.auroxmc.de](https://www.auroxmc.de)
-- 📢 Discord: [discord.auroxmc.de](https://discord.auroxmc.de)
+- 🌐 Website: [www.AuroxMC.de](https://www.auroxmc.de)
+- 📢 Discord: [Jetzt beitreten](https://discord.auroxmc.de)
 - 🐦 Twitter: [@Aurox_MC](https://twitter.com/Aurox_MC)
