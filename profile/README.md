@@ -1,6 +1,8 @@
-## Herzlich willkommen bei AuroxMC – Deinem Minecraft Netzwerk! 👋
+# 💫 AuroxMC – Eine Minecraft Experience
 
-Erfahre mehr über uns:
-- 🌐 Website: [www.AuroxMC.de](https://www.auroxmc.de)
-- 📢 Discord: [discord.AuroxMC.de](https://discord.auroxmc.de)
-- 🐦 Twitter: [@Aurox_MC](https://twitter.com/Aurox_MC)
+## Entdecke AuroxMC
+- **🌍 Webseite**: [www.AuroxMC.de](https://www.auroxmc.de)
+- **💬 Discord**: [discord.AuroxMC.de](https://discord.auroxmc.de)
+- **🐦 Twitter**: [@Aurox_MC](https://twitter.com/Aurox_MC)
+
+💻 **Bereit, deine Fähigkeiten als Developer zu entfalten? Starte Deine Reise bei uns – bewirb Dich jetzt!**
