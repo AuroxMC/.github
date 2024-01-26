@@ -1,4 +1,4 @@
-# 💫 AuroxMC – Eine Minecraft Experience
+# 💫 AuroxMC – Erlebe eine neue Welt!
 
 ## Entdecke AuroxMC
 - **🌍 Webseite**: [www.AuroxMC.de](https://www.auroxmc.de)
